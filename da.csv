@@ -1699,15 +1699,15 @@ MUST BE STOPPED
 
 HIS NAME IS KHALED ISTOM
 
-DO NOT FORGET","ASSASSIN COMING FROM ANTEGRIA
+DO NOT FORGET","LEJEMORDER KOMMER FRA ANTEGRIA
 
 WILL TARGET IMPORTANT EZIC AGENT IN ARSTOTZKA
 
-MUST BE STOPPED
+SKAL STOPPES
 
-HIS NAME IS KHALED ISTOM
+HANS NAVN ER KHALED ISTOM
 
-DO NOT FORGET"
+GLEM IKKE"
 "note:EZIC_HANDLER_SNIPE","KHALED IS RETURNING - HE NOW CARRIES INFORMATION ON ALL EZIC AGENTS
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - MAN IN RED - WE WILL PROVIDE OPPORTUNITY
@@ -2196,10 +2196,10 @@ HOLD YOUR FIRE
 "traveler:PRISON_GUARD3","I stop visiting you here.","I stop visiting you here."
 "traveler:PRISON_GUARD3","I will drop off money at your home instead.","I will drop off money at your home instead."
 "traveler:PRISON_GUARD3","Every other night.","Every other night."
-"traveler:PRISON_GUARD_PAYOUT","What is going on?","What is going on?"
+"traveler:PRISON_GUARD_PAYOUT","What is going on?","Hvad sker der?"
 "traveler:PRISON_GUARD_PAYOUT","I am getting nothing because of you.","I am getting nothing because of you."
 "traveler:PRISON_GUARD_PAYOUT","Detain more people and we will both benefit.","Detain more people and we will both benefit."
-"traveler:PRISON_GUARD_PAYOUT","Good morning.","Good morning."
+"traveler:PRISON_GUARD_PAYOUT","Good morning.","Godmorgen."
 "traveler:PRISON_GUARD_PAYOUT","You are not detaining enough people.","You are not detaining enough people."
 "traveler:PRISON_GUARD_PAYOUT","I have nothing to give you.","I have nothing to give you."
 "traveler:PRISON_GUARD_PAYOUT","Detain more to share part of my bonus.","Detain more to share part of my bonus."
@@ -2207,7 +2207,7 @@ HOLD YOUR FIRE
 "traveler:PRISON_GUARD_PAYOUT","It is not much though.","It is not much though."
 "traveler:PRISON_GUARD_PAYOUT","Maybe you detain more people and we do better.","Maybe you detain more people and we do better."
 "traveler:PRISON_GUARD_PAYOUT","@This is not enough.","@This is not enough."
-"traveler:PRISON_GUARD_PAYOUT","Yes, I know.","Yes, I know."
+"traveler:PRISON_GUARD_PAYOUT","Yes, I know.","Jeg ved det godt."
 "traveler:PRISON_GUARD_PAYOUT","My wife sick now. Neighbor spreads the flu.","My wife sick now. Neighbor spreads the flu."
 "traveler:PRISON_GUARD_PAYOUT","This is what is left after medicine.","This is what is left after medicine."
 "traveler:PRISON_GUARD_PAYOUT","I give you rest next time.","I give you rest next time."
@@ -2334,7 +2334,7 @@ HOLD YOUR FIRE
 "traveler:KID_KILLER2","Read the news tomorrow.","Read the news tomorrow."
 "traveler:KID_KILLER2","She was just little girl.","She was just little girl."
 "traveler:KID_KILLER2","@I do not know what you are talking about.","@I do not know what you are talking about."
-"traveler:KID_KILLER2","Damnit.","Damn it."
+"traveler:KID_KILLER2","Damnit.","Pokkers."
 "traveler:KID_KILLER2","She was just a little girl.","She was just a little girl."
 "traveler:KID_KILLER2","@Yes. He has been arrested.","@Yes. He has been arrested."
 "traveler:KID_KILLER2","What? I asked you to let him pass.","What? I asked you to let him pass."
@@ -2342,11 +2342,11 @@ HOLD YOUR FIRE
 "traveler:KID_KILLER2","@Yes. He ran off.","@Yes. He ran off."
 "traveler:KID_KILLER2","Ran off? Which way?","Ran off? Which way?"
 "traveler:KID_KILLER2","@I do not know. Back into Kolechia.","@I do not know. Back into Kolechia."
-"traveler:KID_KILLER2","Damn it.","Damn it."
+"traveler:KID_KILLER2","Damn it.","Pokkers."
 "traveler:KID_KILLER2","@I have no photos.","@I have no photos."
 "traveler:KID_KILLER2","Heartless bastard.","Heartless bastard."
 "traveler:RESISTER","No.","Nej."
-"traveler:RESISTER","I am not leaving.","I am not leaving."
+"traveler:RESISTER","I am not leaving.","Jeg skrider ikke."
 "traveler:RESISTER","@You are delaying the line.","@You are delaying the line."
 "traveler:RESISTER","I refuse!","I refuse!"
 "traveler:RESISTER","You fools better to not touch me.","You fools better to not touch me."
@@ -2407,7 +2407,7 @@ HOLD YOUR FIRE
 "traveler:WATCH_GIVER0","Only needs new battery.","Only needs new battery."
 "traveler:WATCH_GIVER0","Tell guards to keep away.","Tell guards to keep away."
 "traveler:WATCH_GIVER0","Give back my watch!","Give back my watch!"
-"traveler:WATCH_GIVER0","Thank you.","Thank you."
+"traveler:WATCH_GIVER0","Thank you.","Mange tak."
 "traveler:WATCH_GIVER0","I come back in few days to pick up watch.","I come back in few days to pick up watch."
 "traveler:WATCH_GIVER0","Damnit.","Damnit."
 "traveler:WATCH_GIVER0","Fine. Give watch back.","Fine. Give watch back."
@@ -2467,7 +2467,7 @@ HOLD YOUR FIRE
 "traveler:WATCH_GIVER1","Give back my money!","Give back my money!"
 "traveler:WATCH_GIVER1","Where is my watch?","Where is my watch?"
 "traveler:WATCH_GIVER1","@I sold it.","@I sold it."
-"traveler:WATCH_GIVER1","What!","What!"
+"traveler:WATCH_GIVER1","What!","Hvad!"
 "traveler:WATCH_GIVER1","I give you watch to hold.","I give you watch to hold."
 "traveler:WATCH_GIVER1","Put trust in you!","Put trust in you!"
 "traveler:WATCH_GIVER1","Watch was gift from cousin.","Watch was gift from cousin."
@@ -2527,7 +2527,7 @@ HOLD YOUR FIRE
 "traveler:BUSTED_SPY_FOLLOWER","@Your papers?","@Your papers?"
 "traveler:BUSTED_SPY_FOLLOWER","I am from the Ministry of Information.","I am from the Ministry of Information."
 "traveler:BUSTED_SPY_FOLLOWER","You have something to give us.","You have something to give us."
-"traveler:BUSTED_SPY_FOLLOWER","Perfect.","Perfect."
+"traveler:BUSTED_SPY_FOLLOWER","Perfect.","Perfekt."
 "traveler:GYM_INSTRUCTOR","You are skin and bones.","You are skin and bones."
 "traveler:GYM_INSTRUCTOR","Bet you have no real strength.","Bet you have no real strength."
 "traveler:GYM_INSTRUCTOR","Come to gym, I make you big.","Come to gym, I make you big."
@@ -2540,7 +2540,7 @@ HOLD YOUR FIRE
 "traveler:OLD_INSPECTOR","We denied most people.~","We denied most people.~"
 "traveler:OLD_INSPECTOR","It is all done by computers now.","It is all done by computers now."
 "traveler:OLD_INSPECTOR","They can deny much faster that way.","They can deny much faster that way."
-"traveler:OLD_INSPECTOR","Good luck.","Good luck."
+"traveler:OLD_INSPECTOR","Good luck.","Held og lykke."
 "traveler:OLD_INSPECTOR","I do not miss it.","I do not miss it."
 "traveler:OLD_INSPECTOR","What? Why am I denied?~","What? Why am I denied?~"
 "traveler:OLD_INSPECTOR","So this is what it feels like.~","So this is what it feels like.~"
@@ -2548,7 +2548,7 @@ HOLD YOUR FIRE
 "traveler:OLD_INSPECTOR","Eh, it does not matter what I say.","Eh, it does not matter what I say."
 "traveler:OLD_INSPECTOR","Just deny the visa and I will go.","Just deny the visa and I will go."
 "traveler:RED_STAMP","Red stamp.","Red stamp."
-"traveler:RED_STAMP","@What?","@What?"
+"traveler:RED_STAMP","@What?","@Hvad?"
 "traveler:RED_STAMP","Give me red stamp.","Give me red stamp."
 "traveler:RED_STAMP","I am serious.","I am serious."
 "traveler:RED_STAMP","I have better job offer in Impor.","I have better job offer in Impor."
@@ -2567,7 +2567,7 @@ HOLD YOUR FIRE
 "traveler:NEED_SURGERY","Even so, I do not trust doctors there.","Even so, I do not trust doctors there."
 "traveler:NEED_SURGERY","Only Arstotzka have skilled surgeons.","Only Arstotzka have skilled surgeons."
 "traveler:NEED_SURGERY","@You do not have the right documents.","@You do not have the right documents."
-"traveler:NEED_SURGERY","Yes.","Yes."
+"traveler:NEED_SURGERY","Yes.","Ja."
 "traveler:NEED_SURGERY","They will not give papers for surgery.","They will not give papers for surgery."
 "traveler:NEED_SURGERY","Thank you. I will not forget this.","Thank you. I will not forget this."
 "traveler:NEED_SURGERY","I expected this.","I expected this."
@@ -2583,7 +2583,7 @@ HOLD YOUR FIRE
 "traveler:LOVE_SONG","Thanks and like I say, you super guy.","Thanks and like I say, you super guy."
 "traveler:LOVE_SONG","Do not forget.","Do not forget."
 "traveler:LOVE_SONG","Is too much?","Is too much?"
-"traveler:LOVE_SONG","@Yes.","@Yes."
+"traveler:LOVE_SONG","@Yes.","@Ja."
 "traveler:LOVE_SONG","Is too much. I can see that now.","Is too much. I can see that now."
 "traveler:LOVE_SONG","Next time I make couple copies first.","Next time I make couple copies first."
 "traveler:LOVE_SONG_LONELY","Life sucks.","Life sucks."
@@ -2627,7 +2627,7 @@ HOLD YOUR FIRE
 "traveler:VISIT_SON","I will visit my son. I have not seen him in six years. [Speech/Purpose]","I will visit my son. I have not seen him in six years. [Speech/Purpose]"
 "traveler:VISIT_SON","6 months. [Speech/Duration]","6 months. [Speech/Duration]"
 "traveler:VISIT_SON","Please, let me pass. My son is waiting.","Please, let me pass. My son is waiting."
-"traveler:VISIT_SON","Thank you.","Thank you."
+"traveler:VISIT_SON","Thank you.","Mange tak"
 "traveler:VISIT_SON","Curse you.","Curse you."
 "traveler:DETAIN_FIRST","Hey wait.","Hey wait."
 "traveler:DETAIN_FIRST","Do not arrest me, please.","Do not arrest me, please."
@@ -2644,7 +2644,7 @@ HOLD YOUR FIRE
 "traveler:SEARCH_BRIBE_INTRO","As I promised.","As I promised."
 "traveler:SEARCH_BRIBE_INTRO","Why you turn down good money?","Why you turn down good money?"
 "traveler:SEARCH_BRIBE_INTRO","@You are lucky to escape arrest.","@You are lucky to escape arrest."
-"traveler:SEARCH_BRIBE_INTRO","@Do not come back.","@Do not come back."
+"traveler:SEARCH_BRIBE_INTRO","@Do not come back.","@Kom ikke igen."
 "traveler:SEARCH_BRIBE_INTRO","@You cannot bribe an officer of Arstotzka.","@You cannot bribe an officer of Arstotzka."
 "traveler:SEARCH_BRIBE_INTRO","They must pay well for such obedience, dog.","They must pay well for such obedience, dog."
 "traveler:TWO_PASSPORTS","Shit!","Lort!"
@@ -2681,7 +2681,7 @@ HOLD YOUR FIRE
 "traveler:NO_UNITEDFED_FIRST","It is so easy to deny entry.","It is so easy to deny entry."
 "traveler:NO_UNITEDFED_FIRST","All this paperwork is wasted.","All this paperwork is wasted."
 "traveler:NO_UNITEDFED","@Do not bring your sickness to Arstotzka.","@Do not bring your sickness to Arstotzka."
-"traveler:NO_UNITEDFED","What?","What?"
+"traveler:NO_UNITEDFED","What?","Hvad?"
 "traveler:NO_UNITEDFED","I am perfectly healthy.","I am perfectly healthy."
 "traveler:NO_UNITEDFED","It is so easy to deny entry.","It is so easy to deny entry."
 "traveler:NO_UNITEDFED","All this paperwork is wasted.","All this paperwork is wasted."
